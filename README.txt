@@ -1,4 +1,8 @@
 
+# Hair Salon
+
+**Link to project:** https://spectrumsalon.netlify.app/
+
 Credits:
 
 	Demo Images:
